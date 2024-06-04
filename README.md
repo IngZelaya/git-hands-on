@@ -1,5 +1,6 @@
 # Mi Primer Proyecto Git
 What does this do?
+![image](https://github.com/IngZelaya/git-hands-on/assets/169614628/973d579b-12ac-466f-b88f-1a1703b2ffc9)
 
 1. `git init` inicializa git en su proyecto. Para ser claros, esto sucederá sólo en la creación del proyecto, ¡no en la clonación! Entonces, cuando trabaje en un proyecto existente, no necesitará realizar este paso.
 2. `git add .` agrega todos los archivos a la confirmación (hablaremos más sobre ello).
@@ -7,3 +8,4 @@ What does this do?
 4. `git branch -M main` creará una rama remota llamada `main`. (¿Qué es una sucursal? ¡Ya verás!)
 5. `git remote add origin` conecta el directorio local al repositorio git remoto.
 6. `git push -u origin main` empuja el compromiso a la rama principal remota.
+
